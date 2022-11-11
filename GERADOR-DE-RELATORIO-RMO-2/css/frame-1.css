@@ -1,0 +1,931 @@
+/* screen - frame-1 */
+
+.frame-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  height: 1091px;
+  padding: 32px 153.3px;
+  width: 1243px;
+}
+
+.frame-1 .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 912px;
+  width: 936px;
+}
+
+.frame-1 .titulo {
+  align-self: center;
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.42px;
+  min-height: 76px;
+  text-align: center;
+  width: 675px;
+}
+
+.frame-1 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 82px;
+  height: 181px;
+  margin-top: 31px;
+  min-width: 784px;
+}
+
+.frame-1 .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 181px;
+  width: 352px;
+}
+
+.frame-1 .overlap-group12 {
+  height: 35px;
+  position: relative;
+  width: 352px;
+}
+
+.frame-1 .ticket-de-pesagem {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+  width: 144px;
+}
+
+.frame-1 .rectangle-2-4 {
+  background-color: var(--alto);
+  border: 1px none;
+  border-radius: 3px;
+  height: 35px;
+  left: 143px;
+  position: absolute;
+  top: 0;
+  width: 209px;
+}
+
+.frame-1 .carreta {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 25px;
+  min-height: 20px;
+  width: 130px;
+}
+
+.frame-1 .rectangle-4 {
+  background-color: var(--alto);
+  border: 1px none;
+  border-radius: 3px;
+  height: 44px;
+  margin-left: 2.36px;
+  margin-top: 7px;
+  width: 349px;
+}
+
+.frame-1 .overlap-group7 {
+  height: 20px;
+  margin-left: 0;
+  margin-top: 30px;
+  position: relative;
+  width: 267px;
+}
+
+.frame-1 .transportadora {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 267px;
+}
+
+.frame-1 .rectangle-26 {
+  background-color: var(--alto);
+  border: 1px none;
+  height: 19px;
+  left: 160px;
+  position: absolute;
+  top: 0;
+  width: 21px;
+}
+
+.frame-1 .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 131px;
+  width: 349px;
+}
+
+.frame-1 .flex-row-1 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  gap: 15px;
+  margin-right: 0.33px;
+  min-width: 222px;
+}
+
+.frame-1 .pesagem-final {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 3.25px;
+  min-height: 20px;
+  width: 105px;
+}
+
+.frame-1 .rectangle-3 {
+  background-color: var(--alto);
+  border: 1px none;
+  border-radius: 3px;
+  height: 35px;
+  width: 102px;
+}
+
+.frame-1 .veculocavalo {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 25px;
+  min-height: 20px;
+  width: 243px;
+}
+
+.frame-1 .rectangle-5 {
+  background-color: var(--alto);
+  border: 1px none;
+  border-radius: 3px;
+  height: 44px;
+  margin-top: 7px;
+  width: 349px;
+}
+
+.frame-1 .rectangle-6 {
+  background-color: var(--alto);
+  border: 1px none;
+  border-radius: 3px;
+  height: 44px;
+  margin-left: 0;
+  margin-top: 7px;
+  width: 934px;
+}
+
+.frame-1 .overlap-group11 {
+  height: 20px;
+  margin-left: 0;
+  margin-top: 20px;
+  position: relative;
+  width: 127px;
+}
+
+.frame-1 .emissor {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 127px;
+}
+
+.frame-1 .rectangle-25 {
+  background-color: var(--alto);
+  border: 1px none;
+  height: 19px;
+  left: 82px;
+  position: absolute;
+  top: 0;
+  width: 21px;
+}
+
+.frame-1 .rectangle-7 {
+  background-color: var(--alto);
+  border: 1px none;
+  border-radius: 3px;
+  height: 44px;
+  margin-left: 0;
+  margin-top: 5px;
+  width: 934px;
+}
+
+.frame-1 .overlap-group8 {
+  height: 20px;
+  margin-left: 0;
+  margin-top: 20px;
+  position: relative;
+  width: 68px;
+}
+
+.frame-1 .item {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 68px;
+}
+
+.frame-1 .rectangle-24 {
+  background-color: var(--alto);
+  border: 1px none;
+  height: 19px;
+  left: 47px;
+  position: absolute;
+  top: 1px;
+  width: 21px;
+}
+
+.frame-1 .rectangle-8 {
+  background-color: var(--alto);
+  border: 1px none;
+  border-radius: 3px;
+  height: 44px;
+  margin-left: 0;
+  margin-top: 6px;
+  width: 934px;
+}
+
+.frame-1 .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 13px;
+  margin-left: 0;
+  margin-top: 16px;
+  min-width: 934px;
+}
+
+.frame-1 .overlap-group6 {
+  height: 186px;
+  margin-top: 1.45px;
+  position: relative;
+  width: 242px;
+}
+
+.frame-1 .overlap-group2 {
+  height: 186px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 242px;
+}
+
+.frame-1 .rectangle-9 {
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13px;
+  height: 175px;
+  left: 0;
+  position: absolute;
+  top: 11px;
+  width: 242px;
+}
+
+.frame-1 .rectangle-12 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 3px;
+  height: 23px;
+  left: 19px;
+  position: absolute;
+  top: 0;
+  width: 150px;
+}
+
+.frame-1 .mais {
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 131px;
+}
+
+.frame-1 .group-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 27px;
+  min-height: 112px;
+  position: absolute;
+  top: 51px;
+  width: 204px;
+}
+
+.frame-1 .overlap-group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  margin-left: 0.34px;
+  min-width: 198px;
+}
+
+.frame-1 .overlap-group {
+  height: 36px;
+  position: relative;
+  width: 95px;
+}
+
+.frame-1 .data {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 31px;
+}
+
+.frame-1 .rectangle-26-1 {
+  background-color: var(--alto);
+  border: 1px none;
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 18px;
+  width: 95px;
+}
+
+.frame-1 .hora {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 31px;
+}
+
+.frame-1 .rectangle-28 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 18px;
+  width: 95px;
+}
+
+.frame-1 .operador {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 28px;
+  min-height: 20px;
+  width: 110px;
+}
+
+.frame-1 .rectangle-27 {
+  background-color: var(--alto);
+  border: 1px none;
+  height: 19px;
+  margin-left: 1.9px;
+  margin-top: 9px;
+  width: 196px;
+}
+
+.frame-1 .rectangle-21 {
+  background-color: var(--alto);
+  border: 1px none;
+  height: 19px;
+  left: 130px;
+  position: absolute;
+  top: 2px;
+  width: 21px;
+}
+
+.frame-1 .overlap-group9 {
+  height: 219px;
+  position: relative;
+  width: 380px;
+}
+
+.frame-1 .overlap-group3 {
+  height: 219px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 380px;
+}
+
+.frame-1 .rectangle-13 {
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13px;
+  height: 207px;
+  left: 0;
+  position: absolute;
+  top: 12px;
+  width: 380px;
+}
+
+.frame-1 .rectangle-14 {
+  height: 23px;
+  left: 35px;
+  position: absolute;
+  top: 0;
+  width: 173px;
+}
+
+.frame-1 .pesagem-inicial {
+  left: 47px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+  width: 208px;
+}
+
+.frame-1 .group-3 {
+  align-items: flex-end;
+  display: flex;
+  gap: 4px;
+  height: 173px;
+  left: 37px;
+  min-width: 289px;
+  position: absolute;
+  top: 33px;
+}
+
+.frame-1 .flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 173px;
+  width: 244px;
+}
+
+.frame-1 .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 17px;
+  height: 36px;
+  margin-left: 1px;
+  min-width: 243px;
+}
+
+.frame-1 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 36px;
+  width: 113px;
+}
+
+.frame-1 .data-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  width: 46px;
+}
+
+.frame-1 .rectangle {
+  background-color: var(--alto);
+  border: 1px none;
+  height: 17px;
+  width: 113px;
+}
+
+.frame-1 .hora-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  width: 46px;
+}
+
+.frame-1 .overlap-group-1 {
+  height: 41px;
+  margin-left: 0.55px;
+  position: relative;
+  width: 244px;
+}
+
+.frame-1 .balana {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 94px;
+}
+
+.frame-1 .rectangle-27-1 {
+  background-color: var(--alto);
+  border: 1px none;
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 19px;
+  width: 243px;
+}
+
+.frame-1 .operador-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 4px;
+  min-height: 19px;
+  width: 113px;
+}
+
+.frame-1 .rectangle-2 {
+  height: 22px;
+  margin-left: 1px;
+  margin-top: 3px;
+  width: 243px;
+}
+
+.frame-1 .cavalo {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 0.55px;
+  margin-top: 4px;
+  min-height: 19px;
+  width: 83px;
+}
+
+.frame-1 .kg {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.64px;
+  min-height: 19px;
+  width: 28px;
+}
+
+.frame-1 .rectangle-22 {
+  background-color: var(--alto);
+  border: 1px none;
+  height: 19px;
+  left: 174px;
+  position: absolute;
+  top: 2px;
+  width: 21px;
+}
+
+.frame-1 .overlap-group10 {
+  align-self: center;
+  height: 219px;
+  margin-bottom: 0;
+  position: relative;
+  width: 286px;
+}
+
+.frame-1 .overlap-group4 {
+  height: 219px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 286px;
+}
+
+.frame-1 .rectangle-15 {
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13px;
+  height: 206px;
+  left: 0;
+  position: absolute;
+  top: 13px;
+  width: 286px;
+}
+
+.frame-1 .rectangle-16 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 3px;
+  height: 27px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 165px;
+}
+
+.frame-1 .pesagem-final-1 {
+  left: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 145px;
+}
+
+.frame-1 .group-3-1 {
+  align-items: flex-end;
+  display: flex;
+  gap: 2px;
+  height: 173px;
+  left: 26px;
+  min-width: 219px;
+  position: absolute;
+  top: 33px;
+}
+
+.frame-1 .flex-col-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 173px;
+  width: 184px;
+}
+
+.frame-1 .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 15px;
+  height: 55px;
+  min-width: 184px;
+}
+
+.frame-1 .flex-col-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 55px;
+  width: 102px;
+}
+
+.frame-1 .data-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  width: 44px;
+}
+
+.frame-1 .rectangle-26-2 {
+  background-color: var(--alto);
+  border: 1px none;
+  height: 17px;
+  margin-left: 2px;
+  width: 100px;
+}
+
+.frame-1 .balana-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 2.02px;
+  min-height: 19px;
+  width: 70px;
+}
+
+.frame-1 .flex-col-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 36px;
+  width: 67px;
+}
+
+.frame-1 .hora-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  width: 44px;
+}
+
+.frame-1 .rectangle-30 {
+  background-color: var(--alto);
+  border: 1px none;
+  height: 17px;
+  width: 67px;
+}
+
+.frame-1 .rectangle-27-2 {
+  background-color: var(--alto);
+  border: 1px none;
+  height: 22px;
+  margin-left: 2.02px;
+  width: 180px;
+}
+
+.frame-1 .operador-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 2.02px;
+  margin-top: 3px;
+  min-height: 19px;
+  width: 84px;
+}
+
+.frame-1 .rectangle-2-1 {
+  height: 22px;
+  margin-left: 2.02px;
+  margin-top: 3px;
+  width: 180px;
+}
+
+.frame-1 .cavalo-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 2.02px;
+  margin-top: 5px;
+  min-height: 19px;
+  width: 61px;
+}
+
+.frame-1 .kg-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.57px;
+  min-height: 19px;
+  width: 21px;
+}
+
+.frame-1 .rectangle-23 {
+  background-color: var(--alto);
+  border: 1px none;
+  height: 19px;
+  left: 143px;
+  position: absolute;
+  top: 1px;
+  width: 21px;
+}
+
+.frame-1 .flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 219px;
+  height: 146px;
+  margin-left: 0;
+  margin-top: 13px;
+  min-width: 936px;
+}
+
+.frame-1 .overlap-group-2 {
+  height: 75px;
+  position: relative;
+  width: 242px;
+}
+
+.frame-1 .rectangle-17 {
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13px;
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 11px;
+  width: 242px;
+}
+
+.frame-1 .rectangle-18 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 3px;
+  height: 20px;
+  left: 19px;
+  position: absolute;
+  top: 5px;
+  width: 158px;
+}
+
+.frame-1 .peso-lquido {
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.frame-1 .kg-2 {
+  left: 191px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 37px;
+  width: 30px;
+}
+
+.frame-1 .rectangle-30-1 {
+  background-color: var(--alto);
+  border: 1px none;
+  height: 33px;
+  left: 29px;
+  position: absolute;
+  top: 31px;
+  width: 152px;
+}
+
+.frame-1 .descricaofin {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 13px;
+  height: 141px;
+  min-width: 475px;
+}
+
+.frame-1 .recebimento-e-inspe {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 141px;
+  text-align: right;
+  width: 187px;
+}
+
+.frame-1 .flex-col-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 137px;
+  width: 273px;
+}
+
+.frame-1 .rectangle-25-1 {
+  background-color: var(--alto);
+  border: 1px none;
+  height: 17px;
+  margin-left: 0.34px;
+  width: 272px;
+}
+
+.frame-1 .rectangle-2-2 {
+  background-color: var(--alto);
+  border: 1px none;
+  height: 17px;
+  margin-top: 12px;
+  width: 272px;
+}
+
+.frame-1 .rectangle-2-3 {
+  background-color: var(--alto);
+  border: 1px none;
+  height: 17px;
+  margin-top: 14px;
+  width: 272px;
+}
+
+.frame-1 .flex-row-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 23px;
+  margin-right: 1.66px;
+  min-width: 238px;
+}
+
+.frame-1 .aprovado {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 20px;
+  width: 72px;
+}
+
+.frame-1 .rectangle-19 {
+  background-color: var(--alto);
+  border: 1px none;
+  height: 19px;
+  margin-left: 8px;
+  width: 21px;
+}
+
+.frame-1 .reprovado {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 33px;
+  min-height: 20px;
+  width: 75px;
+}
+
+.frame-1 .rectangle-20 {
+  background-color: var(--alto);
+  border: 1px none;
+  height: 19px;
+  margin-left: 6px;
+  width: 23px;
+}
+
+.frame-1 .overlap-group5 {
+  align-items: flex-end;
+  background-color: #e34848;
+  border-radius: 1px;
+  display: flex;
+  height: 33px;
+  margin-right: 1.66px;
+  min-width: 120px;
+  padding: 6px 32px;
+}
+
+.frame-1 .exportar {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 20px;
+  width: 56px;
+}
